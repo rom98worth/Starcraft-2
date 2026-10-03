@@ -226,4 +226,4 @@ StarCraft 2 is available as a full free version with all features and updates in
 Join the battle today with **StarCraft 2**! Download your free version now and experience the thrill of strategic warfare!
 
 ---
-**Last updated:** 2026-10-02 22:39:10 UTC
+**Last updated:** 2026-10-03 01:31:06 UTC
